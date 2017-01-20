@@ -15,10 +15,31 @@
 # limitations under the License.
 #
 import webapp2
+from random import choice
+from random import randint
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        self.response.write('Hello world!')
+        header = '<h1>Fortune Cookie</h1>'
+        fortune = getRandomFortune()
+        fortuneSentence = 'Your fortune: <strong>' + fortune + '</strong>'
+        fortuneParagraph = '<p>' + fortuneSentence + '</p>'
+        luckyNumber = randint(1,99)
+        luckyNumberParagraph = '<p>Your lucky number: <strong>' + \
+                str(luckyNumber) + '</strong></p>'
+        nextFortuneButton = '<a href="."><button>Another Cookie Please</button></a>'
+        content = header + fortuneParagraph + luckyNumberParagraph + \
+                nextFortuneButton
+        self.response.write(content)
+
+def getRandomFortune():
+    fortunes = [
+            'There is much code in your future.',
+            'You will be wealthy.',
+            'You will master the environment.'
+            ]
+
+    return choice(fortunes)
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler)
