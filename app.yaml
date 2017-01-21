@@ -9,50 +9,43 @@ handlers:
   static_files: favicon.ico
   upload: favicon\.ico
 
-- url: /(.*\.css)
+- url: /static/css/(.*\.css)
   mime_type: text/css
-  static_files: static/\1
-  upload: static/(.*\.css)
+  static_files: static/css/\1
+  upload: static/css/(.*\.css)
 
-- url: /(.*\.html)
+- url: /static/html/(.*\.html)
   mime_type: text/html
-  static_files: static/\1
+  static_files: static/html/\1
   upload: static/(.*\.html)
 
-- url: /(.*\.js)
+- url: /static/js/(.*\.js)
   mime_type: text/javascript
   static_files: static/\1
-  upload: static/(.*\.js)
+  upload: static/js/(.*\.js)
 
-- url: /(.*\.txt)
+- url: /static/txt/(.*\.txt)
   mime_type: text/plain
   static_files: static/\1
-  upload: static/(.*\.txt)
+  upload: static/txt/(.*\.txt)
 
-- url: /(.*\.xml)
+- url: /static/xml/(.*\.xml)
   mime_type: application/xml
   static_files: static/\1
-  upload: static/(.*\.xml)
+  upload: static/xml/(.*\.xml)
 
 # image files
-- url: /(.*\.(bmp|gif|ico|jpeg|jpg|png))
+- url: /static/imaages/(.*\.(bmp|gif|ico|jpeg|jpg|png))
   static_files: static/\1
-  upload: static/(.*\.(bmp|gif|ico|jpeg|jpg|png))
+  upload: static/images/(.*\.(bmp|gif|ico|jpeg|jpg|png))
 
 # index files
-- url: /(.+)/
+- url: /static/html/(.+)/
   static_files: static/\1/index.html
-  upload: static/(.+)/index.html
+  upload: static/html/(.+)/index.html
 
-# redirect to 'url + /index.html' url.
-- url: /(.+)
-  static_files: static/redirector.html
-  upload: static/redirector.html
-
-# site root
-- url: /
-  static_files: static/index.html
-  upload: static/index.html
+- url: .*
+  script: main.app
 
 libraries:
 - name: webapp2

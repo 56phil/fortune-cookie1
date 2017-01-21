@@ -1,0 +1,12 @@
+h1 {
+  color:red;
+}
+
+.container {
+  position: relative;
+  top: 30%;
+  transform: translateY(-50%);
+  margin:0 auto;
+  text-align:center;
+  width:90%;
+}

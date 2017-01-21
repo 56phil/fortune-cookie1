@@ -20,7 +20,8 @@ from random import randint
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        header = '<h1>Fortune Cookie</h1>'
+        header = '<link type="text/css" rel="stylesheet" href="/static/css/fortune.css">'
+        header += '<div class="container"><h1>Fortune Cookie</h1>'
         fortune = getRandomFortune()
         fortuneSentence = 'Your fortune: <strong>' + fortune + '</strong>'
         fortuneParagraph = '<p>' + fortuneSentence + '</p>'
@@ -30,7 +31,7 @@ class MainHandler(webapp2.RequestHandler):
         nextFortuneButton = '<a href="."><button>Another Cookie Please' + \
                 '</button></a>'
         content = header + fortuneParagraph + luckyNumberParagraph + \
-                nextFortuneButton
+                nextFortuneButton + "</div>"
         self.response.write(content)
 
 def getRandomFortune():
