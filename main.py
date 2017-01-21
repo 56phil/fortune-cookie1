@@ -37,13 +37,19 @@ class MainHandler(webapp2.RequestHandler):
 
 def getRandomFortune():
     fortunes = [
+            "Everything will be ok. Don't obsess.",
+            "Expect great things and great things will come",
+            "It's up to you to clearify.",
+            "Let's finish this up now, someone is waiting for you on that",
+            "Share your hapiness with others today.",
+            "The cooler you think you are the dumber you look.",
+            "The finest men like the finest steels have been tempered in the hottest furnace.",
             'There is much code in your future.',
+            "Time will prove you right, you must stay where you are.",
             'You will be wealthy.',
             'You will master the environment.',
-            "Expect great things and great things will come",
-            "The cooler you think you are the dumber you look.",
-            "Share your hapiness with others today.",
-            "Your future will be happy and productive."
+            "Your future will be happy and productive.",
+            "You will think for yourself when you stop letting others think for you.",
             ]
 
     return choice(fortunes)
