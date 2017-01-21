@@ -20,7 +20,8 @@ from random import randint
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        header = '<link type="text/css" rel="stylesheet" href="/static/css/fortune.css">'
+        header = '<link type="text/css" rel="stylesheet" href="/static/css/normalize.css">'
+        header += '<link type="text/css" rel="stylesheet" href="/static/css/fortune.css">'
         header += '<div class="container"><h1>Fortune Cookie</h1>'
         fortune = getRandomFortune()
         fortuneSentence = 'Your fortune: <strong>' + fortune + '</strong>'
@@ -38,7 +39,11 @@ def getRandomFortune():
     fortunes = [
             'There is much code in your future.',
             'You will be wealthy.',
-            'You will master the environment.'
+            'You will master the environment.',
+            "Expect great things and great things will come",
+            "The cooler you think you are the dumber you look.",
+            "Share your hapiness with others today.",
+            "Your future will be happy and productive."
             ]
 
     return choice(fortunes)
