@@ -1,5 +1,6 @@
 h1 {
   color:red;
+  font-family:cursive;
 }
 
 button {
@@ -7,10 +8,15 @@ button {
   color:white;
   margin:1rem;
 }
+
+p {
+  padding:1rem;
+}
+
 .container {
-  border:2px solid red;
+  border:3px solid red;
   position: relative;
-  top: 30%;
+  top: 27%;
   transform: translateY(-50%);
   margin:0 auto;
   text-align:center;
