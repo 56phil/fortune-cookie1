@@ -27,7 +27,8 @@ class MainHandler(webapp2.RequestHandler):
         luckyNumber = randint(1,99)
         luckyNumberParagraph = '<p>Your lucky number: <strong>' + \
                 str(luckyNumber) + '</strong></p>'
-        nextFortuneButton = '<a href="."><button>Another Cookie Please</button></a>'
+        nextFortuneButton = '<a href="."><button>Another Cookie Please' + \
+                '</button></a>'
         content = header + fortuneParagraph + luckyNumberParagraph + \
                 nextFortuneButton
         self.response.write(content)
@@ -43,4 +44,4 @@ def getRandomFortune():
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler)
-], debug=True)
+    ], debug=True)
