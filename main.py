@@ -18,41 +18,39 @@ import webapp2
 from random import choice
 from random import randint
 
+fortunes = [
+        "Everything will be ok. Don't obsess.",
+        "Expect great things and great things will come.",
+        "It's up to you to clearify.",
+        "Let's finish this up now, someone is waiting for you on that.",
+        "Share your hapiness with others today.",
+        "The cooler you think you are the dumber you look.",
+        "The finest men like the finest steels have been tempered in the hottest furnace.",
+        "There is much code in your future.",
+        "Time will prove you right, you must stay where you are.",
+        "You will be wealthy.",
+        "You will master your environment.",
+        "You will think for yourself when you stop letting others think for you.",
+        "Your future will be happy and productive."
+        ]
+
+
 class MainHandler(webapp2.RequestHandler):
     def get(self):
         header = '<link type="text/css" rel="stylesheet" href="/static/css/normalize.css">'
         header += '<link type="text/css" rel="stylesheet" href="/static/css/fortune.css">'
         header += '<div class="container"><h1>Fortune Cookie</h1>'
-        fortune = getRandomFortune()
+        fortune = choice(fortunes)
         fortuneSentence = 'Your fortune: <strong>' + fortune + '</strong>'
         fortuneParagraph = '<p>' + fortuneSentence + '</p>'
-        luckyNumber = randint(1,99)
+        luckyNumber = str(randint(1,99))
         luckyNumberParagraph = '<p>Your lucky number: <strong>' + \
-                str(luckyNumber) + '</strong></p>'
+                luckyNumber + '</strong></p>'
         nextFortuneButton = '<a href="."><button>Another Cookie Please' + \
-                '</button></a>'
+                '</button></a></div>'
         content = header + fortuneParagraph + luckyNumberParagraph + \
-                nextFortuneButton + "</div>"
+                nextFortuneButton
         self.response.write(content)
-
-def getRandomFortune():
-    fortunes = [
-            "Everything will be ok. Don't obsess.",
-            "Expect great things and great things will come",
-            "It's up to you to clearify.",
-            "Let's finish this up now, someone is waiting for you on that",
-            "Share your hapiness with others today.",
-            "The cooler you think you are the dumber you look.",
-            "The finest men like the finest steels have been tempered in the hottest furnace.",
-            'There is much code in your future.',
-            "Time will prove you right, you must stay where you are.",
-            'You will be wealthy.',
-            'You will master the environment.',
-            "Your future will be happy and productive.",
-            "You will think for yourself when you stop letting others think for you.",
-            ]
-
-    return choice(fortunes)
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler)
