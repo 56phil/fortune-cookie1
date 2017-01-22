@@ -5,9 +5,9 @@ api_version: 1
 threadsafe: yes
 
 handlers:
-- url: /favicon\.ico
-  static_files: favicon.ico
-  upload: favicon\.ico
+#- url: /favicon\.ico
+  #static_files: favicon.ico
+  #upload: favicon\.ico
 
 - url: /static/css/(.*\.css)
   mime_type: text/css
@@ -26,8 +26,13 @@ handlers:
 
 - url: /static/txt/(.*\.txt)
   mime_type: text/plain
-  static_files: static/\1
+  static_files: static/txt/\1
   upload: static/txt/(.*\.txt)
+
+- url: /static/txt/fortunes.txt
+  mime_type: text/plain
+  static_files: static/txt/fortunes.txt
+  upload: static/txt/fortunes.txt
 
 - url: /static/xml/(.*\.xml)
   mime_type: application/xml
@@ -36,7 +41,7 @@ handlers:
 
 # image files
 - url: /static/imaages/(.*\.(bmp|gif|ico|jpeg|jpg|png))
-  static_files: static/\1
+  static_files: static/images/\1
   upload: static/images/(.*\.(bmp|gif|ico|jpeg|jpg|png))
 
 # index files

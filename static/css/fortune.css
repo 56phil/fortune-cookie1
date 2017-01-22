@@ -29,7 +29,13 @@ p {
   margin:0 auto;
   position:relative;
   text-align:center;
-  top:34%;
+  top:44%;
   transform:translateY(-50%);
   width:34%;
+}
+
+.st {
+  color:red;
+  font-size:1.1rem;
+  font-weight:bolder;
 }
