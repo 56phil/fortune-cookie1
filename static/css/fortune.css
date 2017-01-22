@@ -8,19 +8,20 @@ button {
   background:red;
   border-radius: 99%;
   color:white;
+  font-size:70%;
   margin:1rem;
   padding:1.3rem;
   text-align:center;
 }
 
 p {
-  padding:1rem;
+  padding:0.4rem;
 }
 
 .container {
   border:3px solid red;
   position: relative;
-  top: 27%;
+  top: 37%;
   transform: translateY(-50%);
   margin:0 auto;
   text-align:center;
