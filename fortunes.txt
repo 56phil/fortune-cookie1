@@ -1,18 +1,23 @@
+/ is the root of all directories.
 A bad excuse is better then none.
 A bad penny always comes back.
 A bad workman blames his tools.
+A big fortune will descend upon you this year.
 A bird in the hand is worth two in the bush.
 A bird makes his nest little by little.
 A bully is always a coward.
 A burden in the bush is worth two in the hand.
 A cat has nine lives.
 A chain is no stronger than its weakest link.
+A chance meeting opens new doors to success and friendship.
 A change is as good as a rest.
 A closed mouth gathers no foot.
+A dream you have will come true.
 A drowning man will clutch at a straw.
 A fool and his money are soon parted.
 A fool in a gown is none the wiser.
 A fool uttereth all his mind.
+A friend asks only for your time not your money.
 A friend in need is a friend indeed.
 A friend is easier lost than found.
 A friend to everybody is a friend to nobody.
@@ -22,49 +27,64 @@ A good friend is one's nearest relation.
 A good reputation is a fair estate.
 A good thing is all the sweeter when won with pain.
 A good thing is soon snatched up.
+A good way to keep healthy is to eat more Chinese food.
 A hair on the head is worth two in the brush
 A handsome shoe often pinches the foot.
+A journey of a thousand miles begins with a single step.
 A journey of a thousand sites begins with a single click.
+A letter of great importance may reach you any day now.
+A lifetime of happiness is in store for you.
 A light purse makes a heavy heart.
 A little body doth often harbour a great soul.
 A little each day is much in a year.
 A little knowledge is a dangerous thing.
 A loveless life is a living death.
+A man is born to live and not prepare to live.
 A man is known by the company he keeps.
 A man of straw needs a woman of gold.
 A man too careful of danger lives in continual torment.
 A man's intentions seldom add to his income.
+A merry heart does good like a medicine.
 A miss is as good as a mile.
-A miss is as good as a mile.
+A new voyage will fill your life with untold memories.
 A penny saved is a penny earned.
 A point is the beginning of magnitude.
 A poor man is better than a liar.
 A problem shared is a problem halved.
 A rolling stone gathers no moss.
 A short cut is often a wrong cut.
+A short stranger will soon enter your life with blessings to share.
+A single conversation with a wise man is better than ten years of study.
 A single penny fairly got is worth a thousand that are not.
+A smile is your passport into the hearts of others.
 A spark can start a great fire.
 A stitch in time saves nine.
+A stranger, is a friend you have not spoken to yet.
 A throne is only a bench covered in purple velvet.
 A true friend is someone who reaches for your hand, but touches your heart.
+A very attractive person has a message for you.
 A wink is as good as a nod, to a blind man.
 A wise man doesn't need advice, and a fool won't take it.
 A wise man shall hold his tongue till he sees his opportunity.
+About time I got out of that cookie!
 Absence makes the fond heart wander.
 Absence makes the heart grow fonder.
+Accept your past without regrets. Handle your present with confidence. Face your future without fear.
 Accidents will happen.
-Actions speak louder than words.
 Actions speak louder than words.
 Adversity and loss make a man wise
 Adversity flatters no man
+Adversity is the parent of virtue.
 Advice when most needed is least heeded.
 After dinner rest a while, after supper walk a mile.
 After the storm comes the calm.
 All aren't hunters that blow the horn.
 All cats are grey in the dark.
+All progress occurs because people dare to be different.
 All promises are either broken or kept.
 All things come to those that wait.
 All work and no play makes Jack a dull boy.
+All your fingers can't be of the same length.
 All's fair in love and war.
 All's well that ends well.
 Always in a hurry, always behind.
@@ -78,6 +98,7 @@ An injury is forgiven better than an injury revenged.
 An old fox need learn no craft.
 An onion a day keeps everyone away.
 An open door may tempt a saint.
+An upward movement initiated in time can counteract fate.
 Anger and hate hinder good counsel.
 Angry words fan the fire like wind.
 Another pot ! Try the teapot.
@@ -89,21 +110,27 @@ As is the gardener so is the garden.
 As one door closes, another always opens.
 As sick as a dog.
 As you go through life, make this your goal, watch the doughnut and not the hole.
-As you go through life, make this your goal, watch the doughnut and not the hole.
 As you sow, so shall you reap.
 Ask and you shall receive.
 Ask no questions and hear no lies.
+Ask yourself if what you are doing today is getting you closer to where you want to be tomorrow.
 At a round table there's no dispute about the place.
 Attack is the best form of defense
 Attack is the best means of defence.
+Back away from individuals who are impulsive.
 Bad news travels fast.
 Be not a baker if your head is made of butter.
+Be on the lookout for coming events; They cast their shadows beforehand.
 Be slow in choosing, but slower in changing.
+Be tactful; overlook your own opportunity.
+Be the labour great or small, do it well or not at all.
 Beauty is but skin deep.
 Beauty is in the eye of the beholder.
+Before trying to please others think of what makes you happy.
 Before you meet the handsome prince you have to kiss a lot of toads.
 Beggars can't be choosers.
 Behind every great man stands a strong woman.
+Believing that you are beautiful will make you appear beautiful to others around you.
 Best to bend it while it's a twig.
 Better late than never.
 Better late thrive than never do well.
@@ -120,8 +147,8 @@ Bread never falls but on its buttered side.
 Brevity is the soul of wit.
 Business before pleasure.
 By hook or by crook.
-C:\ is the root of all directories.
 Call a spade a spade.
+Change can hurt, but it leads a path to something better.
 Change is inevitable, except from vending machines.
 Charity begins at home.
 Cheap is dear in the long run.
@@ -129,8 +156,10 @@ Cheerfulness smooths the road of life.
 Cleanliness is next to Godliness.
 Clothes make the man.
 Cold hands, warm heart.
+Come back later….I’m sleeping (yes, cookies need their sleep too)
 Confess and be hanged.
 Confess and be hanged.
+Conquer your fears or they will conquer you.
 Conscience makes cowards of us all.
 Content is health to the sick and riches to the poor.
 Credit won by lying is quick in dying.
@@ -141,6 +170,7 @@ Cut your coat according to the cloth.
 Damage suffered makes you knowing, but seldom rich.
 Deeds are fruits, words are but leaves.
 Desperate diseases must have desperate remedies.
+Determination is the wake-up call to the human will.
 Diamonds are forever.
 Different strokes for different folks.
 Diligence is the mother of good luck.
@@ -150,6 +180,10 @@ Distance makes the heart grow fonder.
 Divide and conquer.
 Do as I say not as I do.
 Do as you would be done by.
+Do not be covered in sadness or be fooled in happiness they both must exist
+Do not fear what you don't know
+Do not fear what you don't know
+Do not follow where the path may lead. Go where there is no path...and leave a trail
 Do not in an instant what an age cannot recompense.
 Do right and fear no man.
 Do unto others as you would have them do to you.
@@ -165,33 +199,48 @@ Don't cross the bridge till you come to it.
 Don't cross your bridges until you come to them.
 Don't go off half-cocked.
 Don't knock on death's door, ring the doorbell and run.
+Don't pursue happiness - create it.
 Don't put all your eggs in one basket.
 Don't rely on the label on the bag.
 Don't throw the baby out with the bath-water.
 Don't try kicking against the wind.
 Don't try to teach your grand-mother to suck eggs.
 Don`t format the drive before you backup the files.
+Don’t eat any Chinese food today or you’ll be sick!
+Don’t panic
 Drink like a fish, water only.
+Drive like hell to get there sooner.
+Drive like hell, you will get there.
 Eagles may soar, but weasels don't get sucked into jet engines.
 Early to bed, early to rise, makes you healthy, wealthy & wise.
 Easy come, easy go.
+Elegant surroundings will soon be yours.
+Emotion is energy in motion.
 Empty bags cannot stand upright.
-Empty barrels make the most noise.
 Empty vessels make the most noise.
 Empty vessels make the most sound.
+Enjoy the good luck a companion brings you.
+Enjoyed the meal? Buy one to go too.
+Even if the person who appears most wrong, is also quite often right.
 Every cloud has a silver lining.
+Every day is a new day. But tomorrow is never promised.
 Every dog has its day.
 Every man has his price.
 Every man is the architect of his destiny.
 Every path has its puddle.
 Everybody must row with the oars he has.
+Everyone agrees. You are the best.
 Everyone has a photographic memory, some just don't have film.
+Everything happens for a reson.
 Everything has an end.
 Experience is something you don't get until just after you need it.
 Experience is the best teacher.
 Experience is the father of wisdom.
 Experience is the hardest teacher. She gives the test first and the lesson afterwards.
+Express yourself: Don't hold back!
+Express yourself: Don't hold back!
 Facts do not cease to exist because they are ignored.
+Failure is only the opportunity to begin again more intelligently.
 Faint heart never won fair lady.
 Fair exchange is no robbery.
 Fair words butter no cabbage.
@@ -199,36 +248,47 @@ Fall seven times. Stand up eight.
 False friends are worse than open enemies.
 Familiarity breeds contempt.
 Fax is stranger than fiction.
+Fear can keep us up all night long, but faith makes one fine pillow.
 Few words and many deeds.
 Find a coin pick it up, All the day you'll have good luck. Drop a penny leave it lay, Bring someone a lucky day.
+Finish your work on hand don't be greedy.
 First come, first served.
 First impressions are the most lasting.
 First in best dressed.
 Flattery is all right so long as you don't inhale.
 Fools rush in where angels fear to tread.
 For donkeys' ages.
+For hate is never conquered by hate. Hate is conquered by love .
+For success today look first to yourself.
+For success today, look first to yourself.
 Fore-warned is fore-armed.
 Forewarned is forearmed.
+Fortune favors the brave.
 Fortune favours the brave.
 Four eyes are better than two.
 Fresh as a daisy.
 From trivial things, great contests often arise.
 Give a man a fish and you feed him for a day; Teach him to use the Net and he won't bother you for weeks.
 Give credit where credit is due.
+Give person fish, he eat for day. Teach person to fish, he always smell funny.
 Give them an inch and they'll take a mile.
 Good company on the road is the shortest cut.
+Good health will be yours for a long time.
+Good news from afar may bring you a welcome visitor.
 Good wine ruins the purse, and bad wine ruins the stomach.
 Gossips are frogs, they drink and talk.
 Great groups from little icons grow.
 Greediness burst the bag.
 Grief divided is made lighter.
 Grow angry slowly, there's plenty of time.
-Grow angry slowly; there's plenty of time.
 Grumbling makes the loaf no larger.
 Half a loaf is better than none.
-Half a loaf is better than none.
 Hall binks are oft sliddery.
+Happinees comes from a good life.
+Happiness is an activity.
+Happiness is often a rebound from hard work.
 Hard work never did anyone any harm.
+Hard work pays off in the future, laziness pays off now.
 Hasty climbers have sudden falls.
 Hasty judgements are generally faulty.
 Hatred is as blind as love.
@@ -237,53 +297,81 @@ He has enough who is content.
 He is rich that is satisfied.
 He that hurts another, hurts himself.
 He that pays last never pays twice.
+He who dies with most toys, still dies.
 He who drinks a little too much drinks much too much.
 He who fights and runs away, lives to fight another day.
-He who hesitates is lost.
 He who hesitates is lost.
 He who laughs last, laughs longest.
 He who rises late must trot all day.
 He who sings drives away sorrow.
+He who slithers among the ground is not always a foe.
 He who won't be advised, can't be helped.
 He who wronged you will hate you.
 Heavy givers are light complainers.
+Help is always needed but not always appreciated. Stay true to your heart and help those in need weather they appreciate it or not.
+Hidden in a valley beside an open stream- This will be the type of place where you will find your dream.
 His bark is louder than his bite.
 His eyes are bigger than his belly.
 Home is where the heart is.
 Home is where you hang your @.
+Hone your competitive instincts.
 Honesty is the best policy.
 Hope for the best and prepare for the worst.
+How can you have a beutiful ending without making beautiful mistakes.
+Human evolution: “wider freeway" but narrower viewpoints.
 Hunger is the best sauce.
 I am rubber and you are glue. Your words bounce off me and stick to you.
+I cannot help you, for I’m just a cookie
 If a job is worth doing it is worth doing well.
 If anything can go wrong, it will.
 If at first you don't succeed, skydiving is not for you.
 If at first you don't succeed, try, try again.
-If at first you don't succeed, try, try again.
 If it's not broke, mess with it till it is.
 If it's not broken, don't fix it.
 If the cap fits, wear it.
+If winter comes, can spring be far behind?
 If wishes were horses, beggars would ride.
+If you are afraid to shake the dice, you will never throw a six.
+If you are never patient, you will never get anything done. If you believe you can do it, you will be rewarded with success.
+If you can read this, you are literate. Congratulations
 If you can't help, don't hinder.
 If you don't know where you're going, then the journey is never ending.
 If you don't say it you will not have to unsay it.
+If you don’t do it excellently, don’t do it at all.
+If you feel you are right, stand firmly by your convictions.
+If you have something good in your life, don't let it go!
+If you have something worth fighting for, then fight for it.
 If you lie down with dogs, you'll get up with fleas.
 If you lose your temper, don't look for it.
+If you refuse to accept anything but the best, you very often get it.
 If you see something you like, take it and make it better.
 If you tell the truth, you don't have to remember anything.
+If you wish to know the mind of a man, listen to his words
+If you're happy, you're successful.
+If your desires are not extravagant, they will be rewarded.
+Impossible is a word only to be found in the dictionary of fools.
+In case of fire, keep calm, pay bill and run.
 In for a penny, in for a pound.
 In one ear and out the other.
 In the country of the blind, the one-eyed man is king.
+In this life it is not what we take up, but what we give up, that makes us rich.
 Innocent as a new born babe.
+Integrity is doing the right thing, even if nobody is watching.
+Integrity is the essence of everything successful.
+Intelligence is the door to freedom and alert attention is the mother of intelligence.
 It can't happen here is number one on the list of famous last words.
+It could be better, but it’s good enough.
 It is better to be born lucky than rich.
 It is better to be green and growing than ripe and rotten.
-It is better to stay silent and be thought a fool, than to open one's mouth and remove all doubt.
 It is better to stay silent and be thought a fool, than to open one's mouth and remove all doubt.
 It is easier to destroy than to build.
 It is lonesome in the saddle since the horse died.
 It is no use crying over spilt milk.
+It is not necessary to show others you have change; the change will be obvious.
+It is now, and in this world, that we must live.
 It is the first step that is difficult.
+It is very possible that you will achieve greatness in your lifetime.
+It never pays to kick a skunk.
 It never rains but it pours.
 It takes two to have an argument.
 It's a poor job that can't carry one boss.
@@ -291,13 +379,22 @@ It's all in a days work.
 It's an ill bird that fouls its own nest.
 It's an ill wind that blows no-one some good.
 It's an old dog for a hard road.
+It's better to be alone sometimes.
 It's either all or nothing.
 It's no use closing the stable door, after the horse has bolted.
 It's not over till it's over.
+It's not over till the fat lady sings.
+Its amazing how much good you can do if you dont care who gets the credit.
+Jealousy doesn't open doors, it closes them!
 Joy shared is double joy; grief shared is (only) half grief.
+Joys are often the shadows, cast by sorrows.
 Keep It Simple (The KISS principal).
+Keep it simple. The more you say, the less people remember.
+Keep your eye out for someone special.
 Keep your mouth shut and your eyes open.
 Kill two birds with the one stone.
+LIFE CONSIST NOT IN HOLDING GOOD CARDS, BUT IN PLAYING THOSE YOU HOLD WELL.
+Land is always on the mind of a flying bird.
 Laugh and the world laughs with you. Cry and you cry alone.
 Laziness travels so slowly that poverty soon overtakes it.
 Least talk most work.
@@ -305,7 +402,10 @@ Leave no stone unturned.
 Leave tomorrow till tomorrow.
 Let sleeping dogs lie.
 Let the buyer beware.
+Let the deeds speak.
 Life begins at forty.
+Life is a sexually transmitted condition.
+Life is like a dogsled team. If you ain't the lead dog, the scenery never changes.
 Lifes trials may be hard to bear, but patience can outlive them.
 Like a fish out of water.
 Like looking for a needle in a haystack.
@@ -315,24 +415,29 @@ Little strokes fell great oaks.
 Little thieves are hanged, but great ones escape.
 Live and learn.
 Look before you leap.
-Look before you leap.
+Look before you leap. Or wear a parachute.
 Lost time is never found again.
 Love and a cough cannot be hid.
+Love can last a lifetime, if you want it to.
 Love does much but money does all.
+Love is as necessary to human beings as food and shelter.
 Love levels all inequalities.
 Love makes a good eye squint.
 Love sees no faults.
 Love sought is good, but given unsought is better.
 Love to live and live to love.
 Love with life is heaven; and life unloving, hell.
+Made in the USA
 Make hay while the sun shines.
+Make love, not bugs
 Man is the head but woman turns it.
 Manners maketh the man.
 Many a true word spoken in jest.
 Many drops make a shower.
 Many hands make light work.
-Many hands make light work.
+Marriage lets you annoy one special person for the rest of your life
 Marry in haste, repent at leisure.
+Meeting adversity well is the source of your strength.
 Memory is the treasure of the mind.
 Mighty oaks from tiny acorns grow.
 Milk the cow but don't pull off the udder.
@@ -343,6 +448,9 @@ Necessity is a hard nurse, but she raises strong children.
 Necessity is the mother of invention.
 Needs must when the devil drives.
 Never cackle unless you lay.
+Never give up on someone that you don't go a day without thinking about.
+Never give up. Always find a reason to keep trying.
+Never give up. You're not a failure if you don't give up.
 Never judge a book by its cover
 Never let the sun go down on your anger.
 Never let the sun set on angry heart.
@@ -352,6 +460,8 @@ Never put off 'til tomorrow what you can do today.
 Never quarrel with one's bread and butter.
 Never spend your money before you have it.
 Never test the depth of the water with both feet.
+Never upset the driver of the car you're in; they're the master of your destiny until you get home.
+Next full moon brings an enchanting evening.
 No life can be dreary when work is a delight.
 No man is worse for knowing the worst of himself.
 No man or woman is worth your tears, and the one who is, won't make you cry.
@@ -360,14 +470,19 @@ No one can be caught in places he does not visit.
 No sense closing the barn door after the horse has bolted.
 No wise man ever wishes to be younger.
 Nobody can serve two masters.
+Not all closed eye is sleeping nor open eye is seeing.
 Not in a month of Sundays.
 Not to break is better than to mend.
+Nothing astonishes men so much as common sense and plain dealing.
 Nothing dries sooner than a tear.
 Nothing falls into the mouth of a sleeping fox.
 Nothing is ill said if it is not ill taken.
+Nothing seems impossible to you.
+Now is the time to try something new.
+Now these three remain, faith, hope, and love. The greatest of these is love.
 Oaks may fall when reeds take the storm.
 Oh, what a tangled web site we weave when first we practice.
-Old friends and old wine are best.
+Okay to look at past and future. Just don’t stare.
 Old friends and old wine are best.
 Once a task has first begun, never quit until it's done,
 One false move may lose the game.
@@ -379,49 +494,68 @@ One picture is worth a thousand words.
 One today is worth two tomorrows.
 Only the good die young.
 Open confession is good for the soul.
+Our deeds determine us, as much as we determine our deeds.
 Out of sight, out of mind.
 Out of the frying pan into the fire.
+Patience is a virtue, unless its against a brick wall.
 Patience is a virtue.
+Patience is bitter, but its fruit is sweet.
 Peace begins just where ambition ends.
 Penny wise, pound foolish.
 Pentium wise, pen and paper foolish.
+People are naturally attracted to you.
+Person who argues with idiot is taken for fool.
+Person who eat fortune cookie get lousy dessert.
+Person who rests on laurels gets thorn in backside.
 Persuasion is better than force.
 Possession is nine tenths of the law.
+Poverty is no disgrace.
 Pride cometh before a fall.
 Pride feels no pain.
 Procrastination is the thief of time.
+Prosperity makes friends and adversity tries them.
+Punctuality is the politeness of kings and the duty of gentle people everywhere.
 Putting the cart before the horse.
 Ready money is ready medicine.
+Rivers need springs.
+Rivers need springs.
 Rome wasn't built in a day.
 Rules are made to be broken.
+Run!
 Sauce for the goose is sauce for the gander.
 Say what you mean and mean what you say.
 See nothing, say nothing, know nothing.
+Seek out the significance of your problem at this time. Try to understand.
 Seize the day
 Self praise is no recomendation.
+Serious trouble will bypass you.
 Shake the hand before you plough the field.
 Show a clean pair of heels.
 Silence is an excellent remedy against slander.
-Silence is golden.
 Silence is golden.
 Silence is less injurious than a bad reply.
 Since before cocky was an egg.
 Small faults indulged let in greater.
 Some of the best gifts come in small packages.
+Sometimes you just need to lay on the floor.
 Sound as a bell.
+Soup was secret family recipe made from toad. Hope you liked!
 Spare the rod and spoil the child.
 Speak clearly, if you speak at all.
 Speak softly and carry a cellular phone.
+Stay true to those who would do the same for you.
 Step by step one goes far.
 Sticks and stones may break my bones but words will never hurt me.
 Still waters run deep.
 Stop beating around the bush.
+Stop eating now. Food poisoning no fun.
+Stop wishing. Start doing.
 Strike while the iron's hot.
+Success is the sum of my unique visions realized by the sweat of perseverance.
 Take care of the pence and the pounds will take care of themselves.
 Take your wife's first advice.
 Talking comes by nature, silence by wisdom.
 Temper is so good a thing that we should never lose it.
-The Lord loveth a cheerful liar.
 The beaten path is safest.
 The best cast at dice is not to play.
 The best ground bears weeds as well as flowers.
@@ -429,6 +563,7 @@ The best of friends must part.
 The best things are not bought and sold.
 The best things come in small packages.
 The best things in life are free.
+The best year-round temperature is a warm heart and a cool head
 The bigger they are the harder they fall.
 The bigger, the better.
 The course of love never did run smooth.
@@ -439,12 +574,15 @@ The devil finds work for idle hands.
 The e-mail of the species is more deadly than the mail.
 The early bird catches the worm.
 The early bird gets the worm.
+The end is near, might as well have dessert.
 The family that prays together, stays together.
 The fool wanders, the wise man travels.
+The fortune you seek, is in another cookie
 The geek shall inherit the earth.
 The gods help them that help themselves.
 The golden age never was the present one.
 The grass is always greener on the other side of the fence.
+The greatest risk is not taking one.
 The harder you work, the luckier you are.
 The hardest work is to do nothing.
 The hood does not make the monk.
@@ -454,10 +592,17 @@ The longer you live the more you see.
 The longest journey begins with the first step.
 The longest way round is the sweetest way home.
 The love of money is the root of all evil.
+The love of your life is stepping into your planet this summer.
+The man on the top of the mountain did not fall there.
+The man or woman you desire feels the same about you.
 The meek shall inherit the earth.
 The modem is the message.
 The more you stir, the more it stinks.
+The most useless energy is trying to change what and who God so carefully created.
 The nearer the bone the sweeter the meat.
+The object of your desire comes closer.
+The object of your desire comes closer.
+The only certainty is that nothing is certain.
 The pen is mightier than the sword.
 The proof of the pudding is in the eating.
 The receiver is as bad as the thief.
@@ -466,18 +611,30 @@ The sleepy fox catches no chickens.
 The squeaky wheel gets the grease.
 The strongest memory is weaker than the palest ink.
 The sun shines on both sides of the hedge.
+The time is alway right to do what is right.
 The wise man is deceived once but the fool twice.
 The wise shall understand.
+The world is always ready to receive talent with open arms.
+The world is always ready to receive talent with open arms.
+The world may be your oyster, but that doesn't mean you'll get it's pearl.
 The worst wheel always creaks most.
+There are no limitations to the mind except those we aknowledge.
 There is a thin line between love and hate.
 There is no better looking-glass than an old friend.
 There is no fool like an old fool.
+There is no greater pleasure than seeing your loved ones prosper.
 There is no honour among thieves.
+There will be a happy romance for you shortly.
+There will be a happy romance for you shortly.
 There's many a slip 'twixt the dock and the ship.
 There's many a slip, twixt cup and the lip.
 There's no use in flogging a dead horse.
+Things may come to those who wait, but only the things left by those who hustle.
+This fortune no good. Try another.
 Those who don't learn from history are doomed to repeat it.
 To add insult to injury.
+To be old and wise, you must first be young and stupid.
+To be old and wise, you must first be young and stupid.
 To each his own.
 To eat one's heart out.
 To err is human (To forgive divine).
@@ -485,29 +642,43 @@ To look as if butter will not melt in his mouth.
 To scare a bird is not the way to catch it.
 To the world you may be one person, but to one person, you may be the world.
 To wait and be patient soothes many a pang.
+Today it's up to you to create the peacefulness you long for.
 Tomorrow is a new day.
 Too many clicks spoil the browse.
 Too many cooks spoil the broth.
-Too many cooks spoil the broth.
 Too many irons in the fire.
 True beauty lies within.
+Two can live as cheaply as one, for half as long.
 Two cannot fall out if one does not choose.
+Two days from now, tomorrow will be yesterday.
 Two heads are better than one.
 Up and down like a fiddler's elbow.
 Use not today what tomorrow will need.
 Useless as a screen door on a dunny.
 Variety is the spice of life.
 Virtual reality is its own reward.
+Warning: do not eat your fortune
 Waste not, want not.
+We can't help everyone. But everyone can help someone.
 We cannot erase the sad records from our past.
 We do not always gain by changing.
+Wealth awaits you very soon.
+Welcome the change coming into your life.
 What boots up must come down.
 What can't be cured must be endured.
 What do you expect from a pig, but a grunt?
+What ever you're goal is in life, embrace it visualize it, and for it will be yours.
 What the eye doesn't see, the heart doesn't grieve over.
 What you eat today walks and talks tomorrow.
 What's the good of home, if you are never in it?
 When a fox hears a rabbit screaming it comes running, but not to help.
+When all else seems to fail, smile for today and just love someone.
+When chosen for jury duty, tell judge fortune cookie say “guilty!”
+When fear hurts you, conquer it and defeat it!
+When hungry, order more Chinese food.
+When you expect your opponent to yield, you also should avoid hurting him.
+When you look down, all you see is dirt, so keep looking up.
+Whenever possible, keep it simple.
 Where observation is concerned, chance favours only the prepared mind.
 Where there's a will there's a way.
 Where there's smoke there's fire.
@@ -518,13 +689,26 @@ Winners never quit, quitters never win.
 Wisdom is better than strength.
 Wisdom is neither inheritance nor a legacy.
 Wisdom is the wealth of the wise.
+Wise husband is one who thinks twice before saying nothing.
 Wise it is to comprehend the whole.
+Wise sayings often fall on barren ground, but a kind word is never thrown away.
 Wondrous is the strength of cheerfulness.
-Wondrous is the strength of cheerfulness.
+You already know the answer to the questions lingering inside your head.
+You are a lover of words; One day you will write a book.
+You are a person of culture.
+You are cleverly disguised as responsible adult.
+You are extremely loved. Don't worry :)
+You are not judged by your efforts you put in; you are judged on your performance.
+You are the controller of your destiny.
+You are very talented in many ways.
 You are what you eat.
 You aren't learning much when your lips are moving.
+You believe in the goodness of man kind.
+You believe in the goodness of mankind.
 You can eat an elephant if you do it one mouthful at a time.
 You can lead a horse to water, but you can't make him drink.
+You can make your own happiness.
+You can open doors with your charm and patience.
 You can't get blood out of a stone.
 You can't have your cake and eat it too.
 You can't live on bread alone.
@@ -534,11 +718,60 @@ You can't teach a new mouse old clicks.
 You can't teach an old dog new tricks.
 You can't tell a book by its cover.
 You can't unscramble a scrambled egg.
+You cannot become rich except by enriching others.
 You cannot lose what you never had.
+You cannot love life until you live the life you love.
+You have a deep appreciation of the arts and music.
+You have a deep interest in all that is artistic.
+You have a flair for adding a fanciful dimension to any story.
+You have an unusual equipment for success, use it properly.
 You have to crawl before you walk.
 You learn by looking and listening as opposed to talking. That's why you have two ears, two eyes, and only one mouth.
+You learn from your mistakes, you will learn a lot today.
+You learn from your mistakes... You will learn a lot today.
 You made your bed, now you must lie in it.
+You must try, or hate yourself for not trying.
 You never know what you can do till you try.
+You only need look to your own reflection for inspiration. Because you are Beautiful!
 You snooze, you lose.
+You try hard, never to fail. You don't, never to win.
+You will always be surrounded by true friends
+You will be called in to fulfill a position of high honor and responsibility.
+You will be hungry again in one hour
+You will be successful in love.
+You will become better acquainted with a coworker.
+You will become great if you believe in yourself.
+You will conquer obstacles to achieve success.
+You will die alone and poorly dressed
+You will die alone, poor, and poorly dressed.
+You will find a bushel of money
+You will find a thing. It may be important
+You will have a long and wealthy life.
+You will have a pleasant surprise
+You will have unexpected great good luck.
+You will make heads turn.
+You will make many changes before settling down happily.
+You will marry your lover.
+You will read this and say “Geez! I could come up with better fortunes than that!”
+You will soon be honored by someone you respect.
+You will soon embark on a business venture.
+You will soon have an out of money experience.
+You will soon witness a miracle.
+You will take a pleasant journey to a place far away.
+You will travel to many exotic places in your lifetime.
 You're never too old to learn.
-Be the labour great or small, do it well or not at all.
+You're true love will show himself to you under the moonlight.
+Your ability for accomplishment will be followed by success.
+Your ability for accomplishment will follow with success.
+Your dearest wish will come true.
+Your emotional nature is strong and sensitive.
+Your fondest dream will come true within this year.
+Your fortune is as sweet as a cookie.
+Your golden opportunity is coming shortly.
+Your happiness is intertwined with your outlook on life.
+Your high-minded principles spell success.
+Your life will be filled with magical moments.
+Your reality check about to bounce.
+Your shoes will make you happy today.
+Your smile brings happiness to everyone you meet.
+Your smile will tell you what makes you feel good.
