@@ -21,7 +21,7 @@ from random import randint
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        f = open("/static/txt/fortunes.txt", "r")
+        f = open("fortunes.txt", "r")
         n_fortunes = f.read()
         f.close()
         fortunes = n_fortunes.split('\n')
